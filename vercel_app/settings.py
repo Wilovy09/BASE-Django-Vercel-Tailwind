@@ -28,7 +28,7 @@ DEBUG = False
 # Estas 2 lineas de codigo tendras que quitarlas y ponerle tu dominio personalizado
 ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
 CSRF_TRUSTED_ORIGINS = ['https://127.0.0.1', 'https://.vercel.app']
-###################################################################################
+###############################################################################
 
 
 # Application definition
