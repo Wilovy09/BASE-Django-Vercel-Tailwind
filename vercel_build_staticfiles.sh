@@ -1,3 +1,7 @@
+echo "Creando VENV"
+python -m venv venv
+source venv/bin/activate
+
 # build_files.sh
 echo "Instalando requerimientos..."
 pip3 install -r requirements.txt
