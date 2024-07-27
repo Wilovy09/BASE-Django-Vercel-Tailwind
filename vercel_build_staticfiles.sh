@@ -1,5 +1,5 @@
 echo "Creando VENV"
-python -m venv venv
+python3.9 -m venv venv
 source venv/bin/activate
 
 # build_files.sh
