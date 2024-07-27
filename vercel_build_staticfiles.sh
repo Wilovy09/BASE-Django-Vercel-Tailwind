@@ -1,6 +1,6 @@
 # build_files.sh
 echo "Instalando requerimientos..."
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 # Automatic migrations
 #echo "Iniciando migraciones..."
